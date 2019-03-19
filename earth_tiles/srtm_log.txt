@@ -1,0 +1,23 @@
+Namespace(bbox=[33, -118, 35, -116], colorprefix='Colors/Color', colors=True, dataset_path='D:/SRTM_GL1/SRTM_GL1_srtm', dataset_type='srtm1', format='r16', normalize=[32768, 65535], sigma=1.0, tile_res=4033, tileprefix='Tiles/Tile')
+Smoothing Tiles...
+Normalizing...
+Exporting Tiles...
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W118.hgt ==> Tiles/Tile_x0_y0	 Elevation Range: [33195,	49360] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W117.hgt ==> Tiles/Tile_x1_y0	 Elevation Range: [32775,	63492] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W116.hgt ==> Tiles/Tile_x2_y0	 Elevation Range: [32768,	48278] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W118.hgt ==> Tiles/Tile_x0_y1	 Elevation Range: [34133,	61562] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W117.hgt ==> Tiles/Tile_x1_y1	 Elevation Range: [36043,	65535] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W116.hgt ==> Tiles/Tile_x2_y1	 Elevation Range: [34977,	53235] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W118.hgt ==> Tiles/Tile_x0_y2	 Elevation Range: [36251,	56875] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W117.hgt ==> Tiles/Tile_x1_y2	 Elevation Range: [32832,	50511] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W116.hgt ==> Tiles/Tile_x2_y2	 Elevation Range: [36219,	57144] 
+Generating Colors...
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W118.hgt ==> Colors/Color_x0_y0.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W117.hgt ==> Colors/Color_x1_y0.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N33W116.hgt ==> Colors/Color_x2_y0.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W118.hgt ==> Colors/Color_x0_y1.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W117.hgt ==> Colors/Color_x1_y1.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N34W116.hgt ==> Colors/Color_x2_y1.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W118.hgt ==> Colors/Color_x0_y2.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W117.hgt ==> Colors/Color_x1_y2.png	 Elevation Range: [36219,	57144] 
+D:/SRTM_GL1/SRTM_GL1_srtm/North/North_30_60/N35W116.hgt ==> Colors/Color_x2_y2.png	 Elevation Range: [36219,	57144] 
